@@ -1,0 +1,5 @@
+creat Database (Use the Wizard option) so as to get am done completely at once
+
+Goto cpanel/ SLM folder / locate App and Under it ,find Config.php. Edit it and replace the database username and password
+
+Download the My SQL file And upload in My Php Admin
